@@ -23,11 +23,3 @@
 
 ### 💻 Tech Stack
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,lua,html,css,php,java,net,nodejs,react,next,tailwind,bootstrap,mysql,mongodb)](https://xmoti.com)<br/>
-
----
-
-### 🧾 Github Statistics
-These are some statistics from my github.
-
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=xmoti&theme=transparent&count_private=true&hide_border=true&bg_color=1c1c1c&text_color=ffffff&title_color=c3002f&icon_color=c3002f&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmoti&layout=compact&theme=transparent&count_private=true&bg_color=1c1c1c&text_color=ffffff&title_color=c3002f&icon_color=c3002f&hide_border=true)</a>
